@@ -6,7 +6,7 @@
 </p>
 <img src="Capture.JPG" align="right" width="25%" />
   
+
+- 💻 I'm interested in Web Development.
 - 🌱 I’m currently learning JavaScript and React.
-- 💻 I'm interested in Web Development especially Web 3.
-- 📊 I am good at Data Analsis with python.
 - 📍   Live in Cairo,Egypt.
